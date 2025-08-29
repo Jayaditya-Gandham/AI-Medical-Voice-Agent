@@ -1,6 +1,5 @@
 # 🏥 MediEcho: AI Medical Voice Agent  
 
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Jayaditya-Gandham/AI-Medical-Voice-Agent)  
 
 **MediEcho** is an innovative application that revolutionizes healthcare access by enabling **instant AI-powered medical voice consultations**. Users can describe symptoms, interact with specialized AI doctor agents, receive preliminary guidance, and access automatically generated medical reports.  
 
